@@ -1,0 +1,35 @@
+body {
+    background: #b2f6ff;
+    font-family: sans-serif;
+   }
+   h2 {
+    color: #11e3ff;
+   }
+   .login {
+    padding: 1em;
+    margin: 2em auto;
+    width: 17em;
+    background: #09b8ee;
+    border-radius: 3px;
+   }
+   label {
+    font-size: 10pt;
+    color: #fff;
+   }
+   input[type="text"],
+   input[type="password"],
+   textarea {
+    padding: 8px;
+    width: 95%;
+    background: #efefef;
+    border: 0;
+    font-size: 10pt;
+    margin: 6px 0px;
+   }
+   .tombol {
+    background: #b2f6ff;
+    color: #fff;
+    border: 0;
+    padding: 5px 8px;
+    margin: 20px 0px;
+   }
